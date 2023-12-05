@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122030723051",
+    "project_id": "atelier4-m-elhammoui-iir5g2",
+    "storage_bucket": "atelier4-m-elhammoui-iir5g2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122030723051:android:0f7c4a12ce7c10311e53ae",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_m_elhammoui_iir5g2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDNzGtQ65j8sUK1je8W2H-L5y8Iy9topw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
